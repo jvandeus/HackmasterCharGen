@@ -10,3 +10,5 @@ Status
 This project is not fully functional at the moment. It is a work-in-progress.
 
 A database containing the data needed to run the program is currently not online. When set up properly using a simulated MySQL server, the program will allow you to roll the statistics for the character and chose a class.
+
+Co-Authored by Joe Van Deucen and Steven Osowski
