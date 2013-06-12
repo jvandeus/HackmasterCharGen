@@ -1,0 +1,33 @@
+﻿Build started 5/9/2012 11:32:48 PM.
+     1>Project "C:\Users\Daeleth\C++ workspace\Hackmaster 3\Hackmaster 3\Hackmaster 3.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\Hackmaster 3.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\boost\boost_1_47" /I"C:\Program Files\MySQL\Connector C++ 1.1.0\lib\opt" /I"C:\Program Files\MySQL\Connector C++ 1.1.0\lib" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _CONSOLE /D HAVE_INT8_T=1 /D _MBCS /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\Hackmaster 3.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /FU"C:\Program Files (x86)\MySQL\Connector NET 6.4.4\Assemblies\v4.0\MySql.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Configuration.Install.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Transactions.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt "Hackmaster 3.cpp" /clr:nostdlib 
+         Hackmaster 3.cpp
+         All outputs are up-to-date.
+       CoreResGen:
+         "C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\NETFX 4.0 Tools\resgen.exe" /useSourcePath /r:"C:\Program Files (x86)\MySQL\Connector NET 6.4.4\Assemblies\v4.0\MySql.Data.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Configuration.Install.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Transactions.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /compile Race_Selection.resx,Release\Hackmaster3.Race_Selection.resources
+         Processing resource file "Race_Selection.resx" into "Release\Hackmaster3.Race_Selection.resources".
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Daeleth\C++ workspace\Hackmaster 3\Release\Hackmaster 3.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Program Files\MySQL\MySQL Server 5.5\lib" /LIBPATH:"C:\Program Files\MySQL\Connector C++ 1.1.0\lib\opt" mysqlcppconn.lib libmysql.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /ASSEMBLYRESOURCE:Release\Hackmaster3.Output.resources /ASSEMBLYRESOURCE:Release\Hackmaster3.Race_Selection.resources /ASSEMBLYRESOURCE:Release\Hackmaster3.StatRoller.resources /ASSEMBLYRESOURCE:Release\Hackmaster3.Welcome_Screen.resources /MANIFEST /ManifestFile:"Release\Hackmaster 3.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Daeleth\C++ workspace\Hackmaster 3\Release\Hackmaster 3.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Release\app.res
+         Release\AssemblyInfo.obj
+         "Release\Hackmaster 3.obj"
+         Release\stdafx.obj
+         "Release\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         Hackmaster 3.vcxproj -> C:\Users\Daeleth\C++ workspace\Hackmaster 3\Release\Hackmaster 3.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Daeleth\C++ workspace\Hackmaster 3\Release\Hackmaster 3.exe;#1" /manifest "Release\Hackmaster 3.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Release\Hackmaster 3.unsuccessfulbuild".
+         Touching "Release\Hackmaster 3.lastbuildstate".
+     1>Done Building Project "C:\Users\Daeleth\C++ workspace\Hackmaster 3\Hackmaster 3\Hackmaster 3.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.78

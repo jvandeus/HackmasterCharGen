@@ -1,0 +1,21 @@
+1) Install MySQL Connector/C++ using typical settings.
+2) Create a schema/table in MySQL using workbench.
+3) Create a new Visual Studio 2010 C++ project using Windows Form Application.
+4) Added two labels, two text boxes and a button using toolbox.
+5) From Tools/"Connect to Database", selected MySQL.
+6) Specify server name: localhost, username root, password and the database name from the dropdown box.
+7) Test connection.
+8) From Tools, select "Choose Toolbox Item".
+9) Select MySQLDataAdapter and MySQLConnection tools from the .NET Framework components.
+10) From the Toolbox, select MySQLConnection object and drag and drop to the form.
+11) Select it and under the properties for connection string, update the string as follows:
+12) Click on the database you created in step 6 and then from properties, copy the connection string.
+13) The mySqlConnection1 object may be used in the C++.  Not sure what methods are available.
+
+http://www.caspercomsci.com/pages/visualcplussource.htm
+
+
+
+
+http://stackoverflow.com/questions/10134141/my-sql-query-gets-cut-off
+
