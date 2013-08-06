@@ -11,4 +11,6 @@ This project is not fully functional at the moment. It is a work-in-progress.
 
 A database containing the data needed to run the program is currently not online. When set up properly using a simulated MySQL server, the program will allow you to roll the statistics for the character and chose a class.
 
-Co-Authored by Joe Van Deucen and Steven Osowski
+Some form of functionality will be restored in the future, but for now, running the program would require the proper set up of MySQL connector C++ and database. If this is needed, let me know and i will do my best to facilitate.
+
+Co-Authored by Joe Van Deusen and Steven Osowski
